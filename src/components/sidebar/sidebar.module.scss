@@ -1,0 +1,17 @@
+.sidebar{
+    width: 5rem;
+    height: 100vh;
+    position: absolute;
+    //z-index: 2;
+    left: 0;
+    top: 0;
+    background: #161227;
+    border-right:  #E6ABFF .5px solid;
+    .hamburger_icon{
+        width: 5rem;
+        height: 5rem;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+}
